@@ -1,14 +1,14 @@
 ### Hi! I'm Ewerton Barbosa, welcome to my GitHub.
 
 - Currently I work as an Analyst at FenixME 💻
-- Studying TypeScript <img align="center" alt="Ewbarbosa-Ts" height="20" width="20"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+- Studying TypeScript <img align="center" alt="Ewbarbosa-Ts" height="25" width="25"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 - Contact me:
   <a href="https://www.linkedin.com/in/ewba" target="_blank">
-  <img align="center" width="20" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
-  </a>
+  <img align="center" width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
+  </a> 
   <a href="mailto:ewertonb@live.com" target="_blank">
-  <img align="center" width="25" height="25" src="https://img.icons8.com/color/344/microsoft-outlook-2019--v2.png 2x" target="_blank">
+  <img align="center" width="30" height="30" src="https://img.icons8.com/color/344/microsoft-outlook-2019--v2.png 2x" target="_blank">
   </a>
 
 ##
@@ -25,6 +25,7 @@
   <img align="center" alt="Ewbarbosa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Ewbarbosa-Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" />  
 </div>
+
 ##
 <div align="center">
   <a href="https://github.com/Ewbarbosa">
