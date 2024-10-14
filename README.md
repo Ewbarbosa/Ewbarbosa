@@ -1,7 +1,7 @@
 ### Hi! I'm Ewerton Barbosa, welcome to my GitHub.
 
-- Currently I work as an Developer at FenixME 💻
-- Studying TypeScript <img align="center" alt="Ewbarbosa-Ts" height="25" width="25"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+- Currently I work as an Developer FullStack at Opah IT 💻
+- Constantly learning <img align="center" alt="Ewbarbosa-Ts" height="25" width="25"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 - Contact me:
   <a href="https://www.linkedin.com/in/ewba" target="_blank">
