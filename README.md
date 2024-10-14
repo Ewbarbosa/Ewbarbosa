@@ -6,9 +6,6 @@
 - Contact me:
   <a href="https://www.linkedin.com/in/ewba" target="_blank">
   <img align="center" width="25" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank">
-  </a> 
-  <a href="mailto:ewertonb@live.com" target="_blank">
-  <img align="center" width="30" height="30" src="https://img.icons8.com/color/344/microsoft-outlook-2019--v2.png 2x" target="_blank">
   </a>
 
 ##
